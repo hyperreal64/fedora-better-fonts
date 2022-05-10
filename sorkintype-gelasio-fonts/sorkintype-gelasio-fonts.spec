@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: MIT
 %global forgeurl https://github.com/SorkinType/Gelasio
-%global commit   c709e349ff6ce37a3381f4eaecef0b5d91d72eae
+%global commit   45b816432931142b0bb78f5a968d3bd27b9e8d2f
 %forgemeta
 
 Version: 1.006
@@ -61,6 +61,9 @@ This package provides optional documentation files shippend with
 %doc Test*Documents/*pdf
 
 %changelog
+* Tue May 10 2022 Jeffrey Serio <hyperreal@fedoraproject.org> - 1.006-4
+- Change commit hash for sorkintype-gelasio-fonts.spec
+
 * Mon Nov 02 2020 Dawid Zych <dawid.zych@yandex.com> - 1.006-3
 - Skip variable fonts
 - Add additional docs
