@@ -9,7 +9,7 @@ Summary: Passion One is a set of 3 display fonts aimed to composing titles in bi
 Group:   User Interface/X
 License: OFL
 URL:     https://fonts.google.com/specimen/Passion+One
-Source0: https://www.fontsquirrel.com/fonts/download/passion-one.zip
+Source0: https://www.fontsquirrel.com/fonts/download/passion-one
 Source1: %{fontname}-fontconfig.conf
 
 BuildArch:     noarch
