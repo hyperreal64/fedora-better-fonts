@@ -8,7 +8,7 @@ Summary: Casual typeface similar to Comic Sans MS.
 Group:   User Interface/X
 License: custom
 URL:     https://www.fontsquirrel.com/fonts/Komika-Text
-Source0: https://www.fontsquirrel.com/fonts/download/Komika-Text.zip
+Source0: https://www.fontsquirrel.com/fonts/download/Komika-Text
 Source1: %{fontname}-fontconfig.conf
 
 BuildArch:     noarch
